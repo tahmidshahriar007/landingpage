@@ -1,0 +1,31 @@
+navy blue: #0F2656
+
+sea blue: #008AFF
+
+red: #F04E5F
+
+border bottom
+light grey: #EFF1F4
+
+banner:
+h: It's time to amplify your online business
+p: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.
+
+success:
+h1: Successfully completed project and ideas
+h2: 3k+
+p: Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt molit anim id est laborum.
+
+feature:
+pink: #FDEBED
+
+green: #EBF9F4
+
+yellow: #FFF7E8
+
+h: Unleash your creativity
+p: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+footer:
+lightblue: #7FCDFF
+
